@@ -1,0 +1,43 @@
+.toast {
+    width: 400px;
+    height: 60px;
+    position: absolute;
+    right: 0;
+    bottom: 8%;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toast--success {
+    width: 400px;
+    height: 60px;
+    position: absolute;
+    right: 0;
+    bottom: 8%;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    color: white;
+}
+
+.toast--danger {
+    width: 400px;
+    height: 60px;
+    position: absolute;
+    right: 0;
+    bottom: 8%;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    color: white;
+}
+

@@ -2,6 +2,8 @@
 
 La aplicación está desarrollada en Node Js (Backend) y Nuxt Js (Frontend - este es un framework de Vue Js), a continuación explicaré como correr el backend y el frontend.
 
+La arquitectura que se maneja en este proyecto es por capas pero no definida al 100% como lo indica su estructura.
+
 ### **Tener en cuenta**
 
 La base de datos que se trabajó en este proyecto está en SQL así que debemos poner a correr nuestro servicio de MySQL localmente y crear una base de datos vacía, puede llevar cualquier nombre, mas adelante se harán las respectivas configuraciones.

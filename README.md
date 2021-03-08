@@ -22,7 +22,7 @@ Aquí comenzará a instalar todos los paquetes necesarios.
 
 ### **Configuración**
 
-Ahora debemos configurar nuestra base de datos, para eso vamos a dirigirnos a la ruta `src/config/database.ts`, en este archivo pondremos el userName, password y el nombre de la base de datos que creamos anteriormente (puede llevar cualquier nombre), en dado caso de que nuestro MySQL corra en otro puerto o entro host, cambiamos esta información.
+Ahora debemos configurar nuestra base de datos, para eso vamos a dirigirnos a la ruta `src/config/database.ts`, en este archivo pondremos nuestra información de MySQL, el userName, password y el nombre de la base de datos que creamos anteriormente (puede llevar cualquier nombre), en dado caso de que nuestro MySQL corra en otro puerto o en otro host, cambiamos esta información.
 
 ### **Ejecución**
 
